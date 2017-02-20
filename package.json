@@ -2,7 +2,7 @@
   "name": "node-web-app",
   "version": "1.0.0",
   "description": "Node.js on Docker",
-  "author": "First Last <first.last@example.com>",
+  "author": "Lucas Holmquist <lholmqui@redhat.com>",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
